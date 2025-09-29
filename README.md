@@ -37,6 +37,8 @@ Enable users to analyze attrition patterns and identify influential factors behi
 
 ## 📁 Files Included
 
+**Please donwload the Dashboard & Raw Data .xlsx file to view in Excel Format.** 
+
 | File Name                    | Description                                      |
 |------------------------------|--------------------------------------------------|
 | `HR_Analytics_Dashboard.xlsx`| The fully interactive dashboard                  |
