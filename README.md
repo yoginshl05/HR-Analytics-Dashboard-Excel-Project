@@ -22,6 +22,9 @@ Enable users to analyze attrition patterns and identify influential factors behi
 - **Department Analysis:** Deep-dive into attrition by department.
 - **Workforce Composition:** Compare active vs. exited employees.
 - **Demographics:** Assess average age and tenure by department.
+- **Job Satisfaction Rating:** Analyse the Job Satisfaction rating of employees as per Gender & Department
+
+- ![Dashboard - HR - Attrition](https://github.com/user-attachments/assets/7cbe020f-3fa0-46d3-99f7-022f5019a7fc)
 
 ---
 
